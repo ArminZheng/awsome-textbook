@@ -1,10 +1,8 @@
-# textbook-case   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Textbook-case   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Collect various cases and experiences around stack
 
 ![Moonlight and the Milky Way over Mount Rainier in Mount Rainier National Park, Washington (© Brad Goldpaint/Cavan)](https://cn.bing.com/th?id=OHR.MoonlightRainier_EN-US6336057354_UHD.jpg)
-
-## 
 
 - Context
   - [MQ](#MQ)
