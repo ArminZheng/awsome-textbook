@@ -11,7 +11,7 @@ Collect various cases and experiences around stack
   - [DB](#db)
   - [System-Design](#system-design)
 
-- - -
+---
 
 ## MQ
 
@@ -25,6 +25,7 @@ Collect various cases and experiences around stack
 ## NIO
 
 * [netty](https://www.bilibili.com/video/BV1py4y1E7oA) 23.46h
+* [JUC](https://www.bilibili.com/video/BV16J411h7Rd) 32.35h
 
 ## DB
 
@@ -33,3 +34,9 @@ Collect various cases and experiences around stack
 ## System-Design
 
 * [System Design](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md)
+
+## Terminology
+
+* Process
+* Thread
+* Execution Context
