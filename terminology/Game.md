@@ -33,4 +33,13 @@
 33. Local multiplayer = 本地多人
 34. Online multiplayer = 线上多人
 35. Global Interpreter Lock = GIL 全局解释器锁
+36. Tower case = 塔式机箱
+37. slim-tower / micro/mini tower = mini塔
+38. mid-tower = 中塔式
+39. full-tower = 全塔
+40. Blade Server = 刀片服务器
+41. Rack Server = 机架式服务器
+42. motherboard = 主板
+43. ITX = Information Technology EXtended 
+44. ATX = Advanced Technology eXtended
 
