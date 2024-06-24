@@ -69,15 +69,15 @@ Collect various cases and experiences around stack
     - [ ]  eating
 
 [base]
-1. Leetcode 1k (思路正确, 函数名有意义, 变量名有习惯, 重复代码尽量少, 就足够优雅了, 不必过分追求内存占用)
+1. Leetcode 1k (思路正确, 函数名有意义, 变量名有习惯, 重复代码尽量少, 就足够优雅了, 不必过分追求内存占用; 不要关注空格的间距, 保持流畅的输入更重要; 减少退格, 减少左键, 比优雅的格式更重要, 优雅的格式可以由 AI 生成!)
 2. MySQL
 3. Mybatis
 4. MongoDB
 5. Spring
-6. Kafka / Rocket / Rabbit MQ
+6. Kafka / Rocket / [Rabbit MQ](https://www.yuque.com/yuxuandmbjz/rabbitmq)
 7. ES
 
-[new era]
+[new-era]
 1. JUC
 2. JVM
 3. Arthas
@@ -89,6 +89,7 @@ Collect various cases and experiences around stack
 9. Sharding-sphere
 10. PostgreSQL
 11. CSAPP
+12. JDK21 Virtual Threads
 
 ---
 一开始是解决问题, 再后面是创新
